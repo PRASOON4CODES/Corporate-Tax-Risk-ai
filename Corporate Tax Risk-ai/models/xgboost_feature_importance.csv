@@ -1,0 +1,21 @@
+Feature,Importance
+num__Previous_Fines,0.53092426
+num__Internal_Control_Score,0.12507927
+num__Restatement_History,0.0900953
+num__Effective_Tax_Rate,0.069975875
+cat__Market_Region_Middle East,0.06103769
+num__Whistleblower_Reports,0.03172819
+num__Board_Independence,0.027359812
+num__Revenue,0.012479957
+cat__Market_Region_Asia,0.011290999
+num__Leverage_Ratio,0.008752171
+num__Audit_Likelihood,0.0076207947
+num__Governance_Score,0.007262138
+num__Profit_Before_Tax,0.00619485
+cat__Market_Region_EU,0.0035834939
+num__Offshore_Transactions,0.0032668973
+cat__Market_Region_South America,0.001235078
+cat__Market_Region_North America,0.0009613906
+cat__Ownership_Type_Private,0.00054254266
+cat__Ownership_Type_Public,0.00030924953
+cat__Ownership_Type_Foreign Subsidiary,0.00030010164

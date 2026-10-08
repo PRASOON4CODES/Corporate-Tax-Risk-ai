@@ -1,0 +1,21 @@
+Feature,Mean_Absolute_SHAP
+num__Previous_Fines,3.005042
+num__Internal_Control_Score,0.985746
+num__Effective_Tax_Rate,0.62754667
+num__Restatement_History,0.24743615
+num__Board_Independence,0.09697295
+num__Leverage_Ratio,0.0832612
+num__Revenue,0.060206857
+cat__Market_Region_EU,0.045864068
+num__Governance_Score,0.0427825
+num__Audit_Likelihood,0.035485532
+num__Whistleblower_Reports,0.032136954
+num__Profit_Before_Tax,0.019361367
+num__Offshore_Transactions,0.016861882
+cat__Market_Region_Middle East,0.009949032
+cat__Market_Region_South America,0.0063684857
+cat__Market_Region_North America,0.0047545214
+cat__Market_Region_Asia,0.0030146756
+cat__Ownership_Type_Private,0.0029883182
+cat__Ownership_Type_Public,0.0028947766
+cat__Ownership_Type_Foreign Subsidiary,0.001524214

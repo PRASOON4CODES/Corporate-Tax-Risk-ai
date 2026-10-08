@@ -1,0 +1,17 @@
+Feature,Importance
+cat__Market_Region_Asia,0.13534835
+cat__Market_Region_EU,0.09653368
+cat__Ownership_Type_Public,0.08251376
+cat__Market_Region_Middle East,0.07187429
+num__Board_Independence,0.06815708
+num__Audit_Likelihood,0.06675852
+num__Leverage_Ratio,0.062774256
+num__Whistleblower_Reports,0.060034562
+num__Revenue,0.05589962
+num__Profit_Before_Tax,0.05219911
+cat__Market_Region_North America,0.049433812
+num__Governance_Score,0.04781113
+cat__Ownership_Type_Private,0.043405518
+num__Offshore_Transactions,0.0387881
+cat__Market_Region_South America,0.03535091
+cat__Ownership_Type_Foreign Subsidiary,0.03311729
